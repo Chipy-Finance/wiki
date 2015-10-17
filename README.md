@@ -13,8 +13,8 @@ We are grateful to our sponsors for their support.
 ##Collaborate with the team
 To contact group organizers please email @ chipy.finance@gmail.com
 
-Chipy Finance Slack
+Chipy Finance Slack: 
 https://chipy-slack-invites.herokuapp.com/
 
-Chipy maling list
+Chipy mailing list: 
 https://mail.python.org/mailman/listinfo/chicago
