@@ -9,6 +9,10 @@ We are grateful to our sponsors for their support.
 
 - Braintree (https://www.braintreepayments.com/)
 - Quantopian (https://www.quantopian.com/home)
+- IIT Stuart School of Business (http://stuart.iit.edu/)
+- First Recruiting (http://www.first-recruiting.com/)
+- Quantiacs (https://quantiacs.com/)
+- Insight Global (https://www.insightglobal.net/)
 
 ##Collaborate with the team
 To contact group organizers please email @ chipy.finance@gmail.com
