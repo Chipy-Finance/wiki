@@ -4,6 +4,14 @@
 The Chipy Finance Group meets once a month. Meetings details and RSVPs are arranged @ meetup.com.
 http://www.meetup.com/_ChiPy_/
 
+#Past Meetings
+March 24th 2016: Quantiacs
+February 25th 2016: Technicals
+November 23rd 2015: Hack-a-Strat
+November 6th 2015: Quantopian - Beyond the Black Box
+October 26th 2015: A deeper dive into backtesting (Zipline)
+September 21st 2015: Equity Strategies in Quantopian
+
 ##Collaborate with the team
 To contact group organizers: chipy.finance@gmail.com
 
@@ -21,6 +29,7 @@ We are grateful to our sponsors for their support.
 - IIT Stuart School of Business (http://stuart.iit.edu/)
 - First Recruiting (http://www.first-recruiting.com/)
 - Quantiacs (https://quantiacs.com/)
-- Insight Global (https://www.insightglobal.net/)
+- Objective Paradigm (http://www.oprecruiting.com/)
+
 
 
